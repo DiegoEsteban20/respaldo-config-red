@@ -1,0 +1,5 @@
+activo;nombre;ip;tipo;puerto;usuario;enable
+SI;R1-Core;192.168.1.1;cisco_ios;22;admin;SI
+NO;SW1-Piso1;192.168.1.2;cisco_ios;22;admin;SI
+NO;Fortigate-60F;192.168.1.99;fortinet;22;admin;NO
+NO;MikroTik-Borde;192.168.88.1;mikrotik_routeros;22;admin;NO

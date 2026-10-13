@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+equipos.csv
+respaldos/
+reportes/
+demo/
